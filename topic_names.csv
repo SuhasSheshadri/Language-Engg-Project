@@ -1,0 +1,2468 @@
+,0
+0,agriculture
+1,environment
+2,"climate, energy"
+3,architecture
+4,environment
+5,politics
+6,medicine
+7,architecture
+8,politics
+9,politics
+10,architecture
+11,medicine
+12,"belief, mortality"
+13,neuroscience
+14,"climate, energy"
+15,war
+16,war
+17,transportation
+18,war
+19,"climate, energy"
+20,"climate, energy"
+21,"climate, energy"
+22,"climate, energy"
+23,politics
+24,medicine
+25,robotics
+26,politics
+27,"belief, mortality"
+28,politics
+29,politics
+30,"belief, mortality"
+31,family
+32,politics
+33,environment
+34,"belief, mortality"
+35,"climate, energy"
+36,writing
+37,neuroscience
+38,global economy
+39,writing
+40,architecture
+41,"belief, mortality"
+42,politics
+43,politics
+44,neuroscience
+45,politics
+46,medicine
+47,agriculture
+48,"climate, energy"
+49,"belief, mortality"
+50,architecture
+51,environment
+52,politics
+53,medicine
+54,global economy
+55,politics
+56,architecture
+57,writing
+58,medicine
+59,neuroscience
+60,neuroscience
+61,neuroscience
+62,"belief, mortality"
+63,space
+64,medicine
+65,space
+66,"climate, energy"
+67,education
+68,war
+69,neuroscience
+70,education
+71,"climate, energy"
+72,architecture
+73,architecture
+74,neuroscience
+75,medicine
+76,war
+77,war
+78,politics
+79,neuroscience
+80,education
+81,war
+82,space
+83,global economy
+84,neuroscience
+85,space
+86,medicine
+87,politics
+88,war
+89,architecture
+90,neuroscience
+91,medicine
+92,medicine
+93,medicine
+94,politics
+95,politics
+96,"climate, energy"
+97,politics
+98,environment
+99,global economy
+100,"climate, energy"
+101,robotics
+102,architecture
+103,war
+104,environment
+105,politics
+106,space
+107,"technology, privacy"
+108,environment
+109,writing
+110,neuroscience
+111,medicine
+112,architecture
+113,writing
+114,"technology, privacy"
+115,environment
+116,global economy
+117,politics
+118,family
+119,war
+120,"belief, mortality"
+121,gaming
+122,medicine
+123,politics
+124,medicine
+125,writing
+126,writing
+127,disease biology
+128,environment
+129,writing
+130,medicine
+131,"belief, mortality"
+132,medicine
+133,writing
+134,medicine
+135,"climate, energy"
+136,writing
+137,neuroscience
+138,politics
+139,politics
+140,medicine
+141,space
+142,war
+143,global economy
+144,global economy
+145,global economy
+146,family
+147,medicine
+148,neuroscience
+149,medicine
+150,"climate, energy"
+151,family
+152,transportation
+153,medicine
+154,politics
+155,writing
+156,neuroscience
+157,global economy
+158,transportation
+159,environment
+160,neuroscience
+161,neuroscience
+162,medicine
+163,robotics
+164,transportation
+165,"climate, energy"
+166,medicine
+167,medicine
+168,neuroscience
+169,medicine
+170,"climate, energy"
+171,space
+172,"climate, energy"
+173,space
+174,war
+175,architecture
+176,medicine
+177,agriculture
+178,medicine
+179,medicine
+180,war
+181,"climate, energy"
+182,neuroscience
+183,architecture
+184,architecture
+185,space
+186,writing
+187,war
+188,global economy
+189,architecture
+190,medicine
+191,medicine
+192,medicine
+193,global economy
+194,robotics
+195,neuroscience
+196,education
+197,"climate, energy"
+198,medicine
+199,architecture
+200,agriculture
+201,politics
+202,agriculture
+203,architecture
+204,"technology, privacy"
+205,agriculture
+206,medicine
+207,environment
+208,medicine
+209,robotics
+210,environment
+211,"technology, privacy"
+212,war
+213,"technology, privacy"
+214,"belief, mortality"
+215,politics
+216,robotics
+217,robotics
+218,medicine
+219,agriculture
+220,space
+221,space
+222,war
+223,neuroscience
+224,environment
+225,transportation
+226,global economy
+227,architecture
+228,neuroscience
+229,"belief, mortality"
+230,environment
+231,politics
+232,"climate, energy"
+233,medicine
+234,politics
+235,neuroscience
+236,environment
+237,family
+238,neuroscience
+239,global economy
+240,neuroscience
+241,medicine
+242,"climate, energy"
+243,medicine
+244,global economy
+245,medicine
+246,medicine
+247,medicine
+248,neuroscience
+249,medicine
+250,writing
+251,medicine
+252,global economy
+253,politics
+254,medicine
+255,medicine
+256,war
+257,politics
+258,architecture
+259,medicine
+260,space
+261,medicine
+262,architecture
+263,"climate, energy"
+264,"technology, privacy"
+265,neuroscience
+266,neuroscience
+267,robotics
+268,space
+269,war
+270,"climate, energy"
+271,medicine
+272,medicine
+273,war
+274,agriculture
+275,writing
+276,medicine
+277,neuroscience
+278,global economy
+279,"climate, energy"
+280,neuroscience
+281,space
+282,environment
+283,"climate, energy"
+284,global economy
+285,medicine
+286,space
+287,transportation
+288,politics
+289,medicine
+290,"climate, energy"
+291,politics
+292,medicine
+293,medicine
+294,neuroscience
+295,politics
+296,neuroscience
+297,"climate, energy"
+298,writing
+299,architecture
+300,writing
+301,gaming
+302,medicine
+303,"climate, energy"
+304,medicine
+305,robotics
+306,war
+307,war
+308,"belief, mortality"
+309,medicine
+310,neuroscience
+311,politics
+312,medicine
+313,environment
+314,medicine
+315,neuroscience
+316,medicine
+317,medicine
+318,politics
+319,medicine
+320,politics
+321,medicine
+322,sounds
+323,global economy
+324,"climate, energy"
+325,medicine
+326,war
+327,space
+328,politics
+329,writing
+330,global economy
+331,war
+332,global economy
+333,war
+334,war
+335,robotics
+336,environment
+337,medicine
+338,medicine
+339,education
+340,space
+341,"climate, energy"
+342,neuroscience
+343,neuroscience
+344,medicine
+345,architecture
+346,space
+347,"climate, energy"
+348,"belief, mortality"
+349,transportation
+350,global economy
+351,neuroscience
+352,agriculture
+353,environment
+354,"climate, energy"
+355,neuroscience
+356,space
+357,neuroscience
+358,architecture
+359,architecture
+360,war
+361,sounds
+362,politics
+363,architecture
+364,"climate, energy"
+365,"technology, privacy"
+366,education
+367,politics
+368,neuroscience
+369,global economy
+370,medicine
+371,education
+372,medicine
+373,neuroscience
+374,agriculture
+375,medicine
+376,war
+377,war
+378,agriculture
+379,environment
+380,writing
+381,war
+382,global economy
+383,global economy
+384,war
+385,transportation
+386,global economy
+387,architecture
+388,"climate, energy"
+389,agriculture
+390,space
+391,space
+392,medicine
+393,neuroscience
+394,"technology, privacy"
+395,medicine
+396,politics
+397,"climate, energy"
+398,politics
+399,"belief, mortality"
+400,war
+401,"climate, energy"
+402,transportation
+403,neuroscience
+404,medicine
+405,"climate, energy"
+406,medicine
+407,space
+408,medicine
+409,"climate, energy"
+410,global economy
+411,architecture
+412,medicine
+413,medicine
+414,environment
+415,education
+416,politics
+417,war
+418,neuroscience
+419,politics
+420,"technology, privacy"
+421,medicine
+422,neuroscience
+423,politics
+424,neuroscience
+425,writing
+426,politics
+427,architecture
+428,environment
+429,politics
+430,medicine
+431,education
+432,neuroscience
+433,"technology, privacy"
+434,politics
+435,neuroscience
+436,environment
+437,transportation
+438,medicine
+439,environment
+440,environment
+441,neuroscience
+442,transportation
+443,"belief, mortality"
+444,medicine
+445,global economy
+446,neuroscience
+447,agriculture
+448,agriculture
+449,medicine
+450,space
+451,medicine
+452,writing
+453,"technology, privacy"
+454,medicine
+455,medicine
+456,environment
+457,transportation
+458,neuroscience
+459,politics
+460,neuroscience
+461,"belief, mortality"
+462,global economy
+463,"climate, energy"
+464,medicine
+465,neuroscience
+466,politics
+467,writing
+468,writing
+469,global economy
+470,agriculture
+471,agriculture
+472,architecture
+473,war
+474,"technology, privacy"
+475,medicine
+476,education
+477,environment
+478,architecture
+479,family
+480,medicine
+481,space
+482,writing
+483,politics
+484,war
+485,politics
+486,medicine
+487,transportation
+488,environment
+489,neuroscience
+490,medicine
+491,writing
+492,neuroscience
+493,environment
+494,war
+495,space
+496,"technology, privacy"
+497,environment
+498,war
+499,global economy
+500,global economy
+501,medicine
+502,politics
+503,writing
+504,architecture
+505,robotics
+506,war
+507,medicine
+508,"climate, energy"
+509,"climate, energy"
+510,medicine
+511,writing
+512,writing
+513,environment
+514,architecture
+515,politics
+516,robotics
+517,"climate, energy"
+518,architecture
+519,medicine
+520,medicine
+521,war
+522,architecture
+523,architecture
+524,neuroscience
+525,politics
+526,"technology, privacy"
+527,war
+528,writing
+529,"technology, privacy"
+530,war
+531,"belief, mortality"
+532,environment
+533,politics
+534,architecture
+535,medicine
+536,neuroscience
+537,"climate, energy"
+538,"belief, mortality"
+539,education
+540,transportation
+541,writing
+542,war
+543,war
+544,medicine
+545,politics
+546,"technology, privacy"
+547,environment
+548,environment
+549,space
+550,medicine
+551,environment
+552,writing
+553,robotics
+554,global economy
+555,gaming
+556,medicine
+557,medicine
+558,medicine
+559,"belief, mortality"
+560,war
+561,writing
+562,medicine
+563,"climate, energy"
+564,space
+565,politics
+566,writing
+567,neuroscience
+568,environment
+569,global economy
+570,politics
+571,neuroscience
+572,medicine
+573,space
+574,family
+575,space
+576,agriculture
+577,"technology, privacy"
+578,medicine
+579,medicine
+580,war
+581,family
+582,"belief, mortality"
+583,architecture
+584,medicine
+585,"belief, mortality"
+586,architecture
+587,neuroscience
+588,"belief, mortality"
+589,neuroscience
+590,education
+591,war
+592,writing
+593,agriculture
+594,war
+595,writing
+596,politics
+597,environment
+598,environment
+599,writing
+600,"belief, mortality"
+601,agriculture
+602,"technology, privacy"
+603,medicine
+604,politics
+605,environment
+606,"climate, energy"
+607,war
+608,war
+609,politics
+610,"technology, privacy"
+611,"belief, mortality"
+612,transportation
+613,war
+614,"belief, mortality"
+615,"belief, mortality"
+616,gaming
+617,global economy
+618,medicine
+619,politics
+620,space
+621,writing
+622,global economy
+623,war
+624,environment
+625,agriculture
+626,environment
+627,writing
+628,agriculture
+629,"belief, mortality"
+630,medicine
+631,neuroscience
+632,space
+633,medicine
+634,environment
+635,war
+636,transportation
+637,war
+638,space
+639,medicine
+640,environment
+641,neuroscience
+642,"climate, energy"
+643,medicine
+644,neuroscience
+645,medicine
+646,neuroscience
+647,"climate, energy"
+648,"belief, mortality"
+649,writing
+650,space
+651,environment
+652,medicine
+653,"technology, privacy"
+654,neuroscience
+655,space
+656,agriculture
+657,medicine
+658,education
+659,transportation
+660,global economy
+661,transportation
+662,education
+663,politics
+664,war
+665,medicine
+666,education
+667,writing
+668,neuroscience
+669,space
+670,"climate, energy"
+671,global economy
+672,neuroscience
+673,politics
+674,medicine
+675,neuroscience
+676,environment
+677,war
+678,politics
+679,"climate, energy"
+680,space
+681,agriculture
+682,medicine
+683,writing
+684,war
+685,agriculture
+686,"technology, privacy"
+687,"climate, energy"
+688,"climate, energy"
+689,architecture
+690,space
+691,global economy
+692,architecture
+693,politics
+694,transportation
+695,space
+696,environment
+697,global economy
+698,space
+699,"climate, energy"
+700,medicine
+701,"climate, energy"
+702,medicine
+703,global economy
+704,"technology, privacy"
+705,family
+706,politics
+707,space
+708,global economy
+709,politics
+710,global economy
+711,transportation
+712,agriculture
+713,medicine
+714,medicine
+715,medicine
+716,gaming
+717,"technology, privacy"
+718,global economy
+719,global economy
+720,transportation
+721,robotics
+722,environment
+723,environment
+724,medicine
+725,politics
+726,space
+727,agriculture
+728,war
+729,writing
+730,writing
+731,global economy
+732,"climate, energy"
+733,global economy
+734,"technology, privacy"
+735,war
+736,transportation
+737,"climate, energy"
+738,"belief, mortality"
+739,"belief, mortality"
+740,"technology, privacy"
+741,war
+742,"technology, privacy"
+743,politics
+744,medicine
+745,"belief, mortality"
+746,neuroscience
+747,environment
+748,global economy
+749,environment
+750,medicine
+751,space
+752,"belief, mortality"
+753,architecture
+754,architecture
+755,medicine
+756,"belief, mortality"
+757,family
+758,transportation
+759,"climate, energy"
+760,medicine
+761,environment
+762,environment
+763,transportation
+764,space
+765,medicine
+766,gaming
+767,writing
+768,global economy
+769,neuroscience
+770,war
+771,architecture
+772,writing
+773,medicine
+774,transportation
+775,politics
+776,neuroscience
+777,politics
+778,medicine
+779,agriculture
+780,global economy
+781,agriculture
+782,medicine
+783,"climate, energy"
+784,neuroscience
+785,transportation
+786,medicine
+787,transportation
+788,space
+789,transportation
+790,writing
+791,medicine
+792,medicine
+793,medicine
+794,agriculture
+795,medicine
+796,"climate, energy"
+797,space
+798,medicine
+799,transportation
+800,medicine
+801,writing
+802,medicine
+803,medicine
+804,politics
+805,education
+806,medicine
+807,writing
+808,"climate, energy"
+809,neuroscience
+810,medicine
+811,agriculture
+812,global economy
+813,medicine
+814,transportation
+815,"technology, privacy"
+816,"climate, energy"
+817,environment
+818,"belief, mortality"
+819,medicine
+820,"technology, privacy"
+821,medicine
+822,architecture
+823,neuroscience
+824,"climate, energy"
+825,medicine
+826,medicine
+827,medicine
+828,neuroscience
+829,"belief, mortality"
+830,transportation
+831,medicine
+832,politics
+833,politics
+834,medicine
+835,architecture
+836,medicine
+837,politics
+838,medicine
+839,medicine
+840,education
+841,war
+842,writing
+843,medicine
+844,medicine
+845,environment
+846,family
+847,medicine
+848,agriculture
+849,"technology, privacy"
+850,transportation
+851,politics
+852,robotics
+853,medicine
+854,architecture
+855,medicine
+856,neuroscience
+857,gaming
+858,space
+859,neuroscience
+860,war
+861,agriculture
+862,"technology, privacy"
+863,war
+864,neuroscience
+865,medicine
+866,neuroscience
+867,medicine
+868,politics
+869,medicine
+870,medicine
+871,medicine
+872,environment
+873,global economy
+874,writing
+875,"climate, energy"
+876,transportation
+877,family
+878,medicine
+879,medicine
+880,medicine
+881,global economy
+882,medicine
+883,education
+884,politics
+885,education
+886,"climate, energy"
+887,neuroscience
+888,"climate, energy"
+889,medicine
+890,architecture
+891,neuroscience
+892,robotics
+893,space
+894,medicine
+895,neuroscience
+896,politics
+897,"climate, energy"
+898,medicine
+899,family
+900,architecture
+901,family
+902,global economy
+903,medicine
+904,war
+905,environment
+906,writing
+907,writing
+908,family
+909,neuroscience
+910,war
+911,neuroscience
+912,medicine
+913,politics
+914,space
+915,architecture
+916,architecture
+917,politics
+918,medicine
+919,"technology, privacy"
+920,war
+921,gaming
+922,global economy
+923,war
+924,war
+925,neuroscience
+926,politics
+927,medicine
+928,global economy
+929,"belief, mortality"
+930,writing
+931,politics
+932,"belief, mortality"
+933,architecture
+934,medicine
+935,neuroscience
+936,space
+937,"belief, mortality"
+938,family
+939,writing
+940,writing
+941,"belief, mortality"
+942,medicine
+943,"climate, energy"
+944,politics
+945,"climate, energy"
+946,neuroscience
+947,writing
+948,environment
+949,politics
+950,transportation
+951,war
+952,"climate, energy"
+953,"technology, privacy"
+954,politics
+955,education
+956,agriculture
+957,medicine
+958,architecture
+959,space
+960,medicine
+961,global economy
+962,war
+963,medicine
+964,education
+965,writing
+966,neuroscience
+967,medicine
+968,politics
+969,medicine
+970,education
+971,agriculture
+972,environment
+973,writing
+974,war
+975,education
+976,"climate, energy"
+977,environment
+978,"climate, energy"
+979,"belief, mortality"
+980,education
+981,politics
+982,"belief, mortality"
+983,agriculture
+984,writing
+985,education
+986,medicine
+987,environment
+988,politics
+989,architecture
+990,transportation
+991,war
+992,politics
+993,war
+994,"climate, energy"
+995,medicine
+996,politics
+997,agriculture
+998,global economy
+999,environment
+1000,neuroscience
+1001,"technology, privacy"
+1002,environment
+1003,neuroscience
+1004,education
+1005,architecture
+1006,"climate, energy"
+1007,"belief, mortality"
+1008,neuroscience
+1009,politics
+1010,"technology, privacy"
+1011,politics
+1012,education
+1013,war
+1014,"technology, privacy"
+1015,education
+1016,medicine
+1017,neuroscience
+1018,neuroscience
+1019,agriculture
+1020,education
+1021,medicine
+1022,global economy
+1023,neuroscience
+1024,medicine
+1025,architecture
+1026,medicine
+1027,medicine
+1028,medicine
+1029,neuroscience
+1030,war
+1031,politics
+1032,medicine
+1033,writing
+1034,"climate, energy"
+1035,space
+1036,family
+1037,war
+1038,medicine
+1039,education
+1040,environment
+1041,transportation
+1042,medicine
+1043,transportation
+1044,politics
+1045,"technology, privacy"
+1046,politics
+1047,medicine
+1048,medicine
+1049,medicine
+1050,politics
+1051,writing
+1052,"climate, energy"
+1053,medicine
+1054,education
+1055,writing
+1056,education
+1057,medicine
+1058,"technology, privacy"
+1059,politics
+1060,writing
+1061,"climate, energy"
+1062,"belief, mortality"
+1063,transportation
+1064,politics
+1065,neuroscience
+1066,medicine
+1067,"belief, mortality"
+1068,medicine
+1069,neuroscience
+1070,medicine
+1071,education
+1072,politics
+1073,"belief, mortality"
+1074,neuroscience
+1075,space
+1076,family
+1077,writing
+1078,writing
+1079,space
+1080,war
+1081,medicine
+1082,education
+1083,"belief, mortality"
+1084,"belief, mortality"
+1085,global economy
+1086,"technology, privacy"
+1087,space
+1088,environment
+1089,politics
+1090,war
+1091,"belief, mortality"
+1092,medicine
+1093,"technology, privacy"
+1094,"climate, energy"
+1095,global economy
+1096,space
+1097,environment
+1098,environment
+1099,neuroscience
+1100,medicine
+1101,medicine
+1102,medicine
+1103,global economy
+1104,writing
+1105,neuroscience
+1106,agriculture
+1107,politics
+1108,politics
+1109,environment
+1110,environment
+1111,medicine
+1112,medicine
+1113,environment
+1114,robotics
+1115,neuroscience
+1116,medicine
+1117,"belief, mortality"
+1118,neuroscience
+1119,neuroscience
+1120,agriculture
+1121,neuroscience
+1122,war
+1123,writing
+1124,medicine
+1125,"climate, energy"
+1126,family
+1127,war
+1128,transportation
+1129,medicine
+1130,politics
+1131,"belief, mortality"
+1132,"belief, mortality"
+1133,medicine
+1134,"belief, mortality"
+1135,writing
+1136,medicine
+1137,politics
+1138,education
+1139,robotics
+1140,"belief, mortality"
+1141,architecture
+1142,"climate, energy"
+1143,neuroscience
+1144,medicine
+1145,architecture
+1146,environment
+1147,neuroscience
+1148,"climate, energy"
+1149,politics
+1150,"climate, energy"
+1151,war
+1152,medicine
+1153,global economy
+1154,politics
+1155,"climate, energy"
+1156,space
+1157,"belief, mortality"
+1158,environment
+1159,medicine
+1160,family
+1161,architecture
+1162,architecture
+1163,education
+1164,environment
+1165,medicine
+1166,"belief, mortality"
+1167,politics
+1168,environment
+1169,neuroscience
+1170,"climate, energy"
+1171,writing
+1172,politics
+1173,family
+1174,"climate, energy"
+1175,"climate, energy"
+1176,education
+1177,politics
+1178,politics
+1179,transportation
+1180,politics
+1181,"technology, privacy"
+1182,medicine
+1183,"belief, mortality"
+1184,medicine
+1185,architecture
+1186,medicine
+1187,"climate, energy"
+1188,medicine
+1189,"belief, mortality"
+1190,"belief, mortality"
+1191,war
+1192,agriculture
+1193,global economy
+1194,global economy
+1195,environment
+1196,politics
+1197,global economy
+1198,"climate, energy"
+1199,writing
+1200,medicine
+1201,neuroscience
+1202,"belief, mortality"
+1203,medicine
+1204,neuroscience
+1205,disease biology
+1206,gaming
+1207,education
+1208,neuroscience
+1209,writing
+1210,war
+1211,"technology, privacy"
+1212,war
+1213,education
+1214,writing
+1215,"belief, mortality"
+1216,"technology, privacy"
+1217,war
+1218,neuroscience
+1219,"belief, mortality"
+1220,writing
+1221,"climate, energy"
+1222,medicine
+1223,neuroscience
+1224,neuroscience
+1225,space
+1226,"climate, energy"
+1227,agriculture
+1228,agriculture
+1229,medicine
+1230,war
+1231,medicine
+1232,medicine
+1233,"technology, privacy"
+1234,architecture
+1235,war
+1236,medicine
+1237,writing
+1238,writing
+1239,architecture
+1240,medicine
+1241,"belief, mortality"
+1242,war
+1243,transportation
+1244,"technology, privacy"
+1245,war
+1246,transportation
+1247,architecture
+1248,medicine
+1249,"belief, mortality"
+1250,medicine
+1251,education
+1252,war
+1253,writing
+1254,transportation
+1255,politics
+1256,"belief, mortality"
+1257,architecture
+1258,medicine
+1259,medicine
+1260,"climate, energy"
+1261,environment
+1262,politics
+1263,"climate, energy"
+1264,education
+1265,medicine
+1266,architecture
+1267,architecture
+1268,politics
+1269,war
+1270,writing
+1271,agriculture
+1272,war
+1273,writing
+1274,war
+1275,medicine
+1276,politics
+1277,war
+1278,politics
+1279,"belief, mortality"
+1280,politics
+1281,writing
+1282,"climate, energy"
+1283,environment
+1284,politics
+1285,medicine
+1286,neuroscience
+1287,war
+1288,writing
+1289,writing
+1290,space
+1291,"belief, mortality"
+1292,medicine
+1293,politics
+1294,medicine
+1295,space
+1296,agriculture
+1297,"climate, energy"
+1298,war
+1299,medicine
+1300,medicine
+1301,neuroscience
+1302,architecture
+1303,gaming
+1304,neuroscience
+1305,medicine
+1306,medicine
+1307,medicine
+1308,medicine
+1309,neuroscience
+1310,medicine
+1311,space
+1312,war
+1313,writing
+1314,transportation
+1315,"belief, mortality"
+1316,family
+1317,medicine
+1318,education
+1319,"climate, energy"
+1320,medicine
+1321,neuroscience
+1322,global economy
+1323,neuroscience
+1324,politics
+1325,medicine
+1326,environment
+1327,"climate, energy"
+1328,medicine
+1329,space
+1330,war
+1331,writing
+1332,war
+1333,medicine
+1334,education
+1335,politics
+1336,medicine
+1337,education
+1338,medicine
+1339,family
+1340,medicine
+1341,medicine
+1342,medicine
+1343,agriculture
+1344,medicine
+1345,writing
+1346,agriculture
+1347,medicine
+1348,environment
+1349,writing
+1350,education
+1351,"climate, energy"
+1352,education
+1353,writing
+1354,medicine
+1355,neuroscience
+1356,"technology, privacy"
+1357,politics
+1358,war
+1359,family
+1360,politics
+1361,writing
+1362,agriculture
+1363,neuroscience
+1364,medicine
+1365,family
+1366,agriculture
+1367,environment
+1368,medicine
+1369,space
+1370,global economy
+1371,transportation
+1372,medicine
+1373,medicine
+1374,environment
+1375,politics
+1376,space
+1377,environment
+1378,neuroscience
+1379,"climate, energy"
+1380,neuroscience
+1381,medicine
+1382,education
+1383,global economy
+1384,architecture
+1385,global economy
+1386,medicine
+1387,politics
+1388,space
+1389,neuroscience
+1390,writing
+1391,neuroscience
+1392,medicine
+1393,agriculture
+1394,neuroscience
+1395,politics
+1396,"belief, mortality"
+1397,politics
+1398,transportation
+1399,"belief, mortality"
+1400,medicine
+1401,family
+1402,agriculture
+1403,"climate, energy"
+1404,environment
+1405,environment
+1406,neuroscience
+1407,"climate, energy"
+1408,"belief, mortality"
+1409,global economy
+1410,space
+1411,"climate, energy"
+1412,agriculture
+1413,environment
+1414,medicine
+1415,agriculture
+1416,agriculture
+1417,agriculture
+1418,medicine
+1419,agriculture
+1420,agriculture
+1421,agriculture
+1422,medicine
+1423,politics
+1424,war
+1425,neuroscience
+1426,"climate, energy"
+1427,"belief, mortality"
+1428,war
+1429,"belief, mortality"
+1430,architecture
+1431,war
+1432,gaming
+1433,writing
+1434,space
+1435,politics
+1436,medicine
+1437,transportation
+1438,medicine
+1439,space
+1440,war
+1441,environment
+1442,neuroscience
+1443,writing
+1444,writing
+1445,medicine
+1446,environment
+1447,"technology, privacy"
+1448,medicine
+1449,"belief, mortality"
+1450,global economy
+1451,medicine
+1452,"belief, mortality"
+1453,"climate, energy"
+1454,space
+1455,neuroscience
+1456,writing
+1457,"technology, privacy"
+1458,war
+1459,medicine
+1460,writing
+1461,architecture
+1462,space
+1463,education
+1464,politics
+1465,space
+1466,global economy
+1467,medicine
+1468,transportation
+1469,war
+1470,politics
+1471,"climate, energy"
+1472,medicine
+1473,"climate, energy"
+1474,medicine
+1475,neuroscience
+1476,medicine
+1477,war
+1478,"technology, privacy"
+1479,war
+1480,politics
+1481,war
+1482,politics
+1483,medicine
+1484,war
+1485,medicine
+1486,architecture
+1487,"technology, privacy"
+1488,family
+1489,medicine
+1490,robotics
+1491,"belief, mortality"
+1492,environment
+1493,war
+1494,space
+1495,war
+1496,"climate, energy"
+1497,"belief, mortality"
+1498,war
+1499,"climate, energy"
+1500,space
+1501,"climate, energy"
+1502,transportation
+1503,environment
+1504,medicine
+1505,politics
+1506,writing
+1507,politics
+1508,medicine
+1509,medicine
+1510,politics
+1511,"climate, energy"
+1512,war
+1513,environment
+1514,writing
+1515,writing
+1516,architecture
+1517,environment
+1518,"belief, mortality"
+1519,"climate, energy"
+1520,environment
+1521,medicine
+1522,architecture
+1523,"climate, energy"
+1524,medicine
+1525,transportation
+1526,environment
+1527,medicine
+1528,robotics
+1529,architecture
+1530,writing
+1531,transportation
+1532,politics
+1533,medicine
+1534,architecture
+1535,writing
+1536,medicine
+1537,"technology, privacy"
+1538,writing
+1539,neuroscience
+1540,environment
+1541,medicine
+1542,writing
+1543,"belief, mortality"
+1544,war
+1545,"technology, privacy"
+1546,space
+1547,medicine
+1548,environment
+1549,politics
+1550,"belief, mortality"
+1551,family
+1552,politics
+1553,"belief, mortality"
+1554,family
+1555,medicine
+1556,global economy
+1557,environment
+1558,medicine
+1559,architecture
+1560,global economy
+1561,politics
+1562,global economy
+1563,architecture
+1564,"technology, privacy"
+1565,medicine
+1566,neuroscience
+1567,"belief, mortality"
+1568,global economy
+1569,architecture
+1570,medicine
+1571,medicine
+1572,education
+1573,"belief, mortality"
+1574,"technology, privacy"
+1575,architecture
+1576,transportation
+1577,education
+1578,medicine
+1579,war
+1580,neuroscience
+1581,writing
+1582,"belief, mortality"
+1583,neuroscience
+1584,war
+1585,agriculture
+1586,writing
+1587,"climate, energy"
+1588,neuroscience
+1589,transportation
+1590,medicine
+1591,global economy
+1592,architecture
+1593,neuroscience
+1594,war
+1595,writing
+1596,transportation
+1597,environment
+1598,war
+1599,politics
+1600,family
+1601,writing
+1602,politics
+1603,medicine
+1604,family
+1605,writing
+1606,environment
+1607,robotics
+1608,writing
+1609,"technology, privacy"
+1610,writing
+1611,writing
+1612,education
+1613,neuroscience
+1614,agriculture
+1615,writing
+1616,"climate, energy"
+1617,robotics
+1618,politics
+1619,politics
+1620,writing
+1621,neuroscience
+1622,writing
+1623,writing
+1624,"climate, energy"
+1625,medicine
+1626,neuroscience
+1627,politics
+1628,"climate, energy"
+1629,neuroscience
+1630,medicine
+1631,medicine
+1632,robotics
+1633,medicine
+1634,"climate, energy"
+1635,writing
+1636,architecture
+1637,agriculture
+1638,global economy
+1639,medicine
+1640,medicine
+1641,politics
+1642,agriculture
+1643,medicine
+1644,global economy
+1645,neuroscience
+1646,medicine
+1647,neuroscience
+1648,global economy
+1649,neuroscience
+1650,medicine
+1651,"technology, privacy"
+1652,global economy
+1653,"technology, privacy"
+1654,global economy
+1655,medicine
+1656,medicine
+1657,neuroscience
+1658,writing
+1659,"climate, energy"
+1660,war
+1661,environment
+1662,space
+1663,medicine
+1664,space
+1665,medicine
+1666,writing
+1667,transportation
+1668,medicine
+1669,gaming
+1670,medicine
+1671,medicine
+1672,medicine
+1673,medicine
+1674,education
+1675,medicine
+1676,"climate, energy"
+1677,politics
+1678,medicine
+1679,neuroscience
+1680,writing
+1681,agriculture
+1682,writing
+1683,writing
+1684,politics
+1685,medicine
+1686,politics
+1687,"climate, energy"
+1688,"belief, mortality"
+1689,politics
+1690,medicine
+1691,medicine
+1692,"climate, energy"
+1693,politics
+1694,war
+1695,politics
+1696,"technology, privacy"
+1697,space
+1698,environment
+1699,politics
+1700,medicine
+1701,"climate, energy"
+1702,"climate, energy"
+1703,"belief, mortality"
+1704,writing
+1705,war
+1706,politics
+1707,family
+1708,war
+1709,architecture
+1710,medicine
+1711,agriculture
+1712,"climate, energy"
+1713,writing
+1714,education
+1715,medicine
+1716,"belief, mortality"
+1717,environment
+1718,writing
+1719,writing
+1720,medicine
+1721,"climate, energy"
+1722,architecture
+1723,agriculture
+1724,"belief, mortality"
+1725,writing
+1726,environment
+1727,transportation
+1728,medicine
+1729,"climate, energy"
+1730,medicine
+1731,politics
+1732,medicine
+1733,space
+1734,medicine
+1735,medicine
+1736,architecture
+1737,environment
+1738,medicine
+1739,"belief, mortality"
+1740,robotics
+1741,medicine
+1742,neuroscience
+1743,space
+1744,environment
+1745,"technology, privacy"
+1746,medicine
+1747,medicine
+1748,architecture
+1749,transportation
+1750,writing
+1751,"belief, mortality"
+1752,"technology, privacy"
+1753,war
+1754,environment
+1755,agriculture
+1756,writing
+1757,"belief, mortality"
+1758,writing
+1759,family
+1760,"belief, mortality"
+1761,education
+1762,medicine
+1763,medicine
+1764,politics
+1765,writing
+1766,"belief, mortality"
+1767,space
+1768,"belief, mortality"
+1769,writing
+1770,neuroscience
+1771,space
+1772,medicine
+1773,writing
+1774,architecture
+1775,space
+1776,writing
+1777,architecture
+1778,architecture
+1779,education
+1780,environment
+1781,writing
+1782,"belief, mortality"
+1783,war
+1784,"climate, energy"
+1785,global economy
+1786,medicine
+1787,neuroscience
+1788,politics
+1789,space
+1790,"technology, privacy"
+1791,medicine
+1792,writing
+1793,global economy
+1794,environment
+1795,"belief, mortality"
+1796,family
+1797,medicine
+1798,medicine
+1799,"climate, energy"
+1800,writing
+1801,architecture
+1802,medicine
+1803,"technology, privacy"
+1804,agriculture
+1805,writing
+1806,architecture
+1807,politics
+1808,war
+1809,space
+1810,architecture
+1811,medicine
+1812,medicine
+1813,environment
+1814,transportation
+1815,global economy
+1816,environment
+1817,medicine
+1818,politics
+1819,neuroscience
+1820,transportation
+1821,medicine
+1822,neuroscience
+1823,writing
+1824,medicine
+1825,medicine
+1826,writing
+1827,"belief, mortality"
+1828,politics
+1829,politics
+1830,war
+1831,education
+1832,"climate, energy"
+1833,"technology, privacy"
+1834,politics
+1835,medicine
+1836,"belief, mortality"
+1837,writing
+1838,architecture
+1839,medicine
+1840,education
+1841,medicine
+1842,"belief, mortality"
+1843,architecture
+1844,"climate, energy"
+1845,"technology, privacy"
+1846,"climate, energy"
+1847,medicine
+1848,"climate, energy"
+1849,writing
+1850,writing
+1851,architecture
+1852,medicine
+1853,"technology, privacy"
+1854,writing
+1855,medicine
+1856,"belief, mortality"
+1857,"technology, privacy"
+1858,neuroscience
+1859,"climate, energy"
+1860,"technology, privacy"
+1861,medicine
+1862,medicine
+1863,architecture
+1864,medicine
+1865,"belief, mortality"
+1866,war
+1867,environment
+1868,medicine
+1869,"belief, mortality"
+1870,medicine
+1871,politics
+1872,"belief, mortality"
+1873,global economy
+1874,medicine
+1875,medicine
+1876,agriculture
+1877,environment
+1878,global economy
+1879,writing
+1880,robotics
+1881,war
+1882,medicine
+1883,space
+1884,politics
+1885,family
+1886,politics
+1887,medicine
+1888,education
+1889,war
+1890,medicine
+1891,education
+1892,medicine
+1893,space
+1894,architecture
+1895,architecture
+1896,medicine
+1897,medicine
+1898,"belief, mortality"
+1899,writing
+1900,politics
+1901,global economy
+1902,medicine
+1903,medicine
+1904,global economy
+1905,medicine
+1906,"climate, energy"
+1907,politics
+1908,neuroscience
+1909,writing
+1910,agriculture
+1911,medicine
+1912,medicine
+1913,politics
+1914,medicine
+1915,"technology, privacy"
+1916,writing
+1917,agriculture
+1918,architecture
+1919,family
+1920,medicine
+1921,"climate, energy"
+1922,education
+1923,neuroscience
+1924,neuroscience
+1925,environment
+1926,medicine
+1927,medicine
+1928,neuroscience
+1929,medicine
+1930,medicine
+1931,medicine
+1932,medicine
+1933,medicine
+1934,medicine
+1935,"belief, mortality"
+1936,space
+1937,medicine
+1938,writing
+1939,architecture
+1940,medicine
+1941,politics
+1942,writing
+1943,medicine
+1944,medicine
+1945,education
+1946,"technology, privacy"
+1947,"technology, privacy"
+1948,family
+1949,"climate, energy"
+1950,war
+1951,robotics
+1952,education
+1953,neuroscience
+1954,neuroscience
+1955,robotics
+1956,medicine
+1957,"climate, energy"
+1958,"climate, energy"
+1959,global economy
+1960,politics
+1961,"belief, mortality"
+1962,medicine
+1963,writing
+1964,medicine
+1965,robotics
+1966,politics
+1967,medicine
+1968,medicine
+1969,"climate, energy"
+1970,environment
+1971,medicine
+1972,"belief, mortality"
+1973,medicine
+1974,space
+1975,medicine
+1976,agriculture
+1977,environment
+1978,family
+1979,neuroscience
+1980,family
+1981,medicine
+1982,environment
+1983,neuroscience
+1984,"belief, mortality"
+1985,medicine
+1986,war
+1987,writing
+1988,education
+1989,war
+1990,global economy
+1991,"belief, mortality"
+1992,transportation
+1993,war
+1994,writing
+1995,"belief, mortality"
+1996,"climate, energy"
+1997,medicine
+1998,space
+1999,global economy
+2000,family
+2001,medicine
+2002,"climate, energy"
+2003,medicine
+2004,medicine
+2005,transportation
+2006,medicine
+2007,environment
+2008,space
+2009,politics
+2010,"climate, energy"
+2011,agriculture
+2012,medicine
+2013,space
+2014,"belief, mortality"
+2015,"technology, privacy"
+2016,global economy
+2017,robotics
+2018,war
+2019,neuroscience
+2020,medicine
+2021,space
+2022,global economy
+2023,architecture
+2024,medicine
+2025,environment
+2026,writing
+2027,global economy
+2028,"belief, mortality"
+2029,robotics
+2030,"technology, privacy"
+2031,global economy
+2032,transportation
+2033,"climate, energy"
+2034,politics
+2035,medicine
+2036,writing
+2037,architecture
+2038,global economy
+2039,space
+2040,"climate, energy"
+2041,medicine
+2042,war
+2043,writing
+2044,space
+2045,education
+2046,neuroscience
+2047,transportation
+2048,neuroscience
+2049,global economy
+2050,politics
+2051,"belief, mortality"
+2052,"belief, mortality"
+2053,environment
+2054,"technology, privacy"
+2055,war
+2056,transportation
+2057,"belief, mortality"
+2058,family
+2059,politics
+2060,medicine
+2061,robotics
+2062,neuroscience
+2063,environment
+2064,medicine
+2065,writing
+2066,"belief, mortality"
+2067,medicine
+2068,space
+2069,war
+2070,"belief, mortality"
+2071,environment
+2072,neuroscience
+2073,agriculture
+2074,transportation
+2075,global economy
+2076,neuroscience
+2077,environment
+2078,medicine
+2079,medicine
+2080,"climate, energy"
+2081,"belief, mortality"
+2082,environment
+2083,neuroscience
+2084,writing
+2085,agriculture
+2086,space
+2087,writing
+2088,"technology, privacy"
+2089,medicine
+2090,medicine
+2091,global economy
+2092,writing
+2093,"climate, energy"
+2094,writing
+2095,environment
+2096,war
+2097,global economy
+2098,writing
+2099,"climate, energy"
+2100,writing
+2101,global economy
+2102,education
+2103,neuroscience
+2104,medicine
+2105,environment
+2106,politics
+2107,medicine
+2108,politics
+2109,agriculture
+2110,space
+2111,"technology, privacy"
+2112,"climate, energy"
+2113,medicine
+2114,environment
+2115,"technology, privacy"
+2116,medicine
+2117,architecture
+2118,medicine
+2119,medicine
+2120,neuroscience
+2121,space
+2122,politics
+2123,medicine
+2124,education
+2125,politics
+2126,education
+2127,environment
+2128,"belief, mortality"
+2129,writing
+2130,medicine
+2131,politics
+2132,global economy
+2133,"belief, mortality"
+2134,medicine
+2135,"belief, mortality"
+2136,environment
+2137,medicine
+2138,war
+2139,robotics
+2140,war
+2141,environment
+2142,agriculture
+2143,writing
+2144,environment
+2145,writing
+2146,neuroscience
+2147,war
+2148,"climate, energy"
+2149,medicine
+2150,education
+2151,agriculture
+2152,politics
+2153,architecture
+2154,"technology, privacy"
+2155,"technology, privacy"
+2156,politics
+2157,space
+2158,medicine
+2159,architecture
+2160,writing
+2161,war
+2162,war
+2163,medicine
+2164,education
+2165,space
+2166,space
+2167,medicine
+2168,transportation
+2169,architecture
+2170,writing
+2171,family
+2172,space
+2173,neuroscience
+2174,neuroscience
+2175,transportation
+2176,environment
+2177,global economy
+2178,environment
+2179,global economy
+2180,architecture
+2181,medicine
+2182,medicine
+2183,environment
+2184,"belief, mortality"
+2185,medicine
+2186,"climate, energy"
+2187,war
+2188,writing
+2189,"climate, energy"
+2190,medicine
+2191,writing
+2192,"climate, energy"
+2193,agriculture
+2194,medicine
+2195,"technology, privacy"
+2196,family
+2197,"climate, energy"
+2198,agriculture
+2199,environment
+2200,architecture
+2201,politics
+2202,writing
+2203,writing
+2204,agriculture
+2205,education
+2206,writing
+2207,agriculture
+2208,war
+2209,neuroscience
+2210,neuroscience
+2211,politics
+2212,education
+2213,writing
+2214,education
+2215,politics
+2216,politics
+2217,politics
+2218,medicine
+2219,medicine
+2220,medicine
+2221,writing
+2222,war
+2223,writing
+2224,"belief, mortality"
+2225,"technology, privacy"
+2226,medicine
+2227,writing
+2228,architecture
+2229,environment
+2230,medicine
+2231,war
+2232,medicine
+2233,medicine
+2234,writing
+2235,agriculture
+2236,"technology, privacy"
+2237,writing
+2238,global economy
+2239,medicine
+2240,medicine
+2241,politics
+2242,agriculture
+2243,"belief, mortality"
+2244,writing
+2245,writing
+2246,neuroscience
+2247,agriculture
+2248,politics
+2249,medicine
+2250,politics
+2251,politics
+2252,environment
+2253,writing
+2254,environment
+2255,architecture
+2256,medicine
+2257,medicine
+2258,global economy
+2259,medicine
+2260,medicine
+2261,agriculture
+2262,education
+2263,neuroscience
+2264,"belief, mortality"
+2265,medicine
+2266,"climate, energy"
+2267,environment
+2268,medicine
+2269,global economy
+2270,medicine
+2271,robotics
+2272,"belief, mortality"
+2273,environment
+2274,agriculture
+2275,robotics
+2276,politics
+2277,neuroscience
+2278,"climate, energy"
+2279,space
+2280,medicine
+2281,"belief, mortality"
+2282,medicine
+2283,global economy
+2284,politics
+2285,"belief, mortality"
+2286,architecture
+2287,writing
+2288,medicine
+2289,transportation
+2290,global economy
+2291,environment
+2292,agriculture
+2293,medicine
+2294,global economy
+2295,neuroscience
+2296,medicine
+2297,education
+2298,architecture
+2299,medicine
+2300,"belief, mortality"
+2301,family
+2302,"climate, energy"
+2303,writing
+2304,medicine
+2305,politics
+2306,politics
+2307,writing
+2308,neuroscience
+2309,writing
+2310,war
+2311,space
+2312,architecture
+2313,"climate, energy"
+2314,"belief, mortality"
+2315,medicine
+2316,politics
+2317,medicine
+2318,medicine
+2319,medicine
+2320,"technology, privacy"
+2321,politics
+2322,space
+2323,global economy
+2324,medicine
+2325,politics
+2326,medicine
+2327,"belief, mortality"
+2328,medicine
+2329,"belief, mortality"
+2330,writing
+2331,"belief, mortality"
+2332,transportation
+2333,"belief, mortality"
+2334,"belief, mortality"
+2335,"belief, mortality"
+2336,medicine
+2337,writing
+2338,writing
+2339,robotics
+2340,agriculture
+2341,"belief, mortality"
+2342,"technology, privacy"
+2343,politics
+2344,writing
+2345,neuroscience
+2346,"belief, mortality"
+2347,medicine
+2348,architecture
+2349,robotics
+2350,medicine
+2351,"belief, mortality"
+2352,"belief, mortality"
+2353,medicine
+2354,writing
+2355,medicine
+2356,medicine
+2357,education
+2358,neuroscience
+2359,medicine
+2360,writing
+2361,"belief, mortality"
+2362,agriculture
+2363,medicine
+2364,medicine
+2365,medicine
+2366,global economy
+2367,medicine
+2368,neuroscience
+2369,"belief, mortality"
+2370,environment
+2371,"belief, mortality"
+2372,medicine
+2373,"belief, mortality"
+2374,medicine
+2375,writing
+2376,space
+2377,neuroscience
+2378,global economy
+2379,neuroscience
+2380,medicine
+2381,"belief, mortality"
+2382,medicine
+2383,architecture
+2384,politics
+2385,architecture
+2386,medicine
+2387,"technology, privacy"
+2388,medicine
+2389,"belief, mortality"
+2390,neuroscience
+2391,architecture
+2392,medicine
+2393,war
+2394,"belief, mortality"
+2395,architecture
+2396,environment
+2397,medicine
+2398,medicine
+2399,medicine
+2400,"belief, mortality"
+2401,politics
+2402,medicine
+2403,space
+2404,"climate, energy"
+2405,global economy
+2406,politics
+2407,"technology, privacy"
+2408,writing
+2409,medicine
+2410,architecture
+2411,education
+2412,"climate, energy"
+2413,education
+2414,space
+2415,neuroscience
+2416,war
+2417,medicine
+2418,war
+2419,"technology, privacy"
+2420,politics
+2421,politics
+2422,politics
+2423,global economy
+2424,global economy
+2425,space
+2426,medicine
+2427,"climate, energy"
+2428,medicine
+2429,"climate, energy"
+2430,architecture
+2431,"belief, mortality"
+2432,medicine
+2433,war
+2434,"technology, privacy"
+2435,neuroscience
+2436,medicine
+2437,politics
+2438,family
+2439,war
+2440,writing
+2441,war
+2442,"belief, mortality"
+2443,agriculture
+2444,writing
+2445,war
+2446,writing
+2447,war
+2448,writing
+2449,writing
+2450,global economy
+2451,global economy
+2452,architecture
+2453,writing
+2454,politics
+2455,writing
+2456,transportation
+2457,transportation
+2458,robotics
+2459,medicine
+2460,education
+2461,writing
+2462,medicine
+2463,global economy
+2464,neuroscience
+2465,"climate, energy"
+2466,architecture
