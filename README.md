@@ -1,4 +1,5 @@
-#Topic modelling
+Topic modelling
+
 Used for finding topic (group of words) from a collection of documents that represents the information in the collection or in other words assigning multiple tags to a text. (Unsupervised Document Classification) Methods Used :
 
 NMF - Non-negative Matrix Factorization
